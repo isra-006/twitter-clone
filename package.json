@@ -1,0 +1,16 @@
+{
+  "name": "internship-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "twitter-clone"
+  },
+  "author": "",
+  "license": "ISC"
+}
