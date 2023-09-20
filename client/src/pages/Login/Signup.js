@@ -30,7 +30,7 @@ const Signup = () => {
                 number: number
             }
 
-            fetch('http://localhost:5000/register', {
+            fetch('https://twitter-clone-xnsk.vercel.app/', {
                 method: "POST",
                 headers: {
                     'content-type': 'application/json'
